@@ -1,4 +1,4 @@
-Web Literacy Standard
+Référentiel de Compétences Web
 =====================
 
 Le Référentiel de Compétences Web comprend trois branches:
